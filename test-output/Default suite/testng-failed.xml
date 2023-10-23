@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.shay.Web_Automation_Baics.DropDown">
+      <class name="com.shay.Web_Automation_Baics.AssertionExample">
         <methods>
-          <include name="dropDwonTest"/>
+          <include name="assertionTest"/>
           <include name="startBrowser"/>
           <include name="close"/>
         </methods>
-      </class> <!-- com.shay.Web_Automation_Baics.DropDown -->
+      </class> <!-- com.shay.Web_Automation_Baics.AssertionExample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
