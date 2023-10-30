@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.shay.Web_Automation_Baics.TabWindowIncognitoExample">
+      <class name="com.shay.Web_Automation_Baics.WaitExample">
         <methods>
-          <include name="IncognitoWindowTest"/>
+          <include name="waitTest"/>
           <include name="startBrowser"/>
           <include name="close"/>
         </methods>
-      </class> <!-- com.shay.Web_Automation_Baics.TabWindowIncognitoExample -->
+      </class> <!-- com.shay.Web_Automation_Baics.WaitExample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
